@@ -1,0 +1,2 @@
+# cloudslots
+slots respository
